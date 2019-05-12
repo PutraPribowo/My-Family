@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Family</string>
+    <string name="developer">Developer</string>
+    <string name="detail">Detail</string>
+    <string name="share">Share</string>
+    <string name="status">Status</string>
+    <string name="nama">Nama</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="card_view">Card View</string>
+</resources>
